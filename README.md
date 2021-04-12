@@ -41,10 +41,14 @@ Install the Python dependencies from [requirements.txt](requirements.txt) file:
 python3 -m pip install requirements.txt
 ```
 
-Start your Jupyter Notebook environment:
+### 3. Start Jupyter Notebook
+
+Start your Jupyter Notebook environment using the CLI:
 ```bash
 jupyter notebook
 ```
+
+Or start Jupyter Notebook using another method of your choice.
 
 ## Contributions
 
