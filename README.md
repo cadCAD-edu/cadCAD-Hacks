@@ -81,6 +81,6 @@ We gladly accept contributions of bug fixes!
 
 ## License
 
-GNU General Public License v3.0 (GPL v3.0)
+Mozilla Public License 2.0
 
 See [LICENSE](LICENSE)
