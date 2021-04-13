@@ -6,6 +6,7 @@ See https://www.cadcad.education/course/cadcad-hacks
 ## Contents
 
 * Season 1 notebooks: [`season-1/`](season-1/)
+    * [cadcad-hack-1-the-graph.ipynb](season-1/cadcad-hack-1-the-graph.ipynb)
 
 ## Environment Setup
 
@@ -38,10 +39,21 @@ source venv/bin/activate
 
 Install the Python dependencies from [requirements.txt](requirements.txt) file:
 ```bash
-python3 -m pip install requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 
-### 3. Start Jupyter Notebook
+### 3. Setup 
+
+Within your virtual environment, create a new IPython kernel called `python-cadcad-hacks`, which you will select and use in Jupyter:
+```bash
+python3 -m ipykernel install --user --name python-cadcad-hacks --display-name "Python (cadCAD Hacks)"
+```
+
+### 4. Start Jupyter
+
+We recommend using Jupyter Notebook or Jupyter Lab, but you should be able to use any Jupyter notebook viewing software of your choice.
+
+#### Jupyter Notebook
 
 Start your Jupyter Notebook environment using the CLI:
 ```bash
@@ -49,6 +61,15 @@ jupyter notebook
 ```
 
 Or start Jupyter Notebook using another method of your choice.
+
+#### Jupyter Lab
+
+Jupyter Lab requires a few additional steps to install Plotly:
+```bash
+jupyter labextension install jupyterlab-plotly@4.14.3
+```
+
+See https://plotly.com/python/getting-started/ for more details.
 
 ## Contributions
 
