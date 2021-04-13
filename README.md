@@ -42,7 +42,7 @@ Install the Python dependencies from [requirements.txt](requirements.txt) file:
 python3 -m pip install -r requirements.txt
 ```
 
-### 3. Setup 
+### 3. Create IPython Kernel 
 
 Within your virtual environment, create a new IPython kernel called `python-cadcad-hacks`, which you will select and use in Jupyter:
 ```bash
