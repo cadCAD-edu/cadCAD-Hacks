@@ -12,3 +12,7 @@ jupyterlab==3.0.12
 ipywidgets==7.6.3
 notebook==6.3.0
 nbqa==0.6.0
+cadcad_machine_search==0.0.1.2
+numba==0.53.1
+cadCAD-tools==0.0.1.0
+
