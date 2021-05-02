@@ -1,4 +1,7 @@
 # cadCAD Hacks
+
+[![Python workflow](https://github.com/cadCAD-edu/cadCAD-Hacks/actions/workflows/python.yml/badge.svg)](https://github.com/cadCAD-edu/cadCAD-Hacks/actions/workflows/python.yml)
+
 The most comprehensive collection of intermediate level cadCAD methodologies on the web. If you're using cadCAD professionally, this is where you pick up the latest tips&amp;tricks.
 
 See https://www.cadcad.education/course/cadcad-hacks
