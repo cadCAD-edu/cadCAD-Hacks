@@ -10,6 +10,7 @@ See https://www.cadcad.education/course/cadcad-hacks
 
 * Season 1 notebooks: [`season-1/`](season-1/)
     * [cadcad-hack-1-the-graph.ipynb](season-1/cadcad-hack-1-the-graph.ipynb)
+    * [cadcad-hack-2-predator-prey-sandbox-model.ipynb](season-1/cadcad-hack-2-predator-prey-sandbox-model.ipynb)
 
 ## Environment Setup
 
