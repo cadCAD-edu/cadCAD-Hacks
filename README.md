@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/cadCAD-edu/eth2-masterclass/blob/main/media/logos/hacks-logo.png" width="50%" />
+</p>
+
 # cadCAD Hacks
 
 [![Python workflow](https://github.com/cadCAD-edu/cadCAD-Hacks/actions/workflows/python.yml/badge.svg)](https://github.com/cadCAD-edu/cadCAD-Hacks/actions/workflows/python.yml)
@@ -8,9 +12,13 @@ See https://www.cadcad.education/course/cadcad-hacks
 
 ## Contents
 
-* Season 1 notebooks: [`season-1/`](season-1/)
-    * [cadcad-hack-1-the-graph.ipynb](season-1/cadcad-hack-1-the-graph.ipynb)
-    * [cadcad-hack-2-predator-prey-sandbox-model.ipynb](season-1/cadcad-hack-2-predator-prey-sandbox-model.ipynb)
+### Season 1
+
+| Hack      | Description | Link |
+| ----------- | ----------- | --- |
+| The Graph      | How to access blockchain data through The Graph from within cadCAD simulations | [cadcad-hack-1-the-graph.ipynb](season-1/cadcad-hack-1-the-graph.ipynb) |
+| Predator-Prey Sandbox Model   | How to use the Predator-Prey “Sandbox” Model | [cadcad-hack-2-predator-prey-sandbox-model.ipynb](season-1/cadcad-hack-2-predator-prey-sandbox-model.ipynb) |
+| Plotly Animations   | How to create beautifully interactive cadCAD models using Plotly animations | [cadcad-hack-3-plotly-animations.ipynb](season-1/cadcad-hack-3-plotly-animations.ipynb) |
 
 ## Environment Setup
 
