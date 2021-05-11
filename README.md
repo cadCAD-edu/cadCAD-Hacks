@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/cadCAD-edu/cadCAD-Hacks/blob/main/media/logos/hacks-logo.png" width="50%" />
+  <img src="https://github.com/cadCAD-edu/cadCAD-Hacks/blob/main/media/logos/hacks-logo.png" width="200px" />
 </p>
 
 # cadCAD Hacks
