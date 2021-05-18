@@ -17,6 +17,7 @@ See https://www.cadcad.education/course/cadcad-hacks
 | The Graph      | How to access blockchain data through The Graph from within cadCAD simulations | [cadcad-hack-1-the-graph.ipynb](season-1/cadcad-hack-1-the-graph.ipynb) |
 | Predator-Prey Sandbox Model   | How to use the Predator-Prey “Sandbox” Model | [cadcad-hack-2-predator-prey-sandbox-model.ipynb](season-1/cadcad-hack-2-predator-prey-sandbox-model.ipynb) |
 | Plotly Animations   | How to create beautifully interactive cadCAD models using Plotly animations | [cadcad-hack-3-plotly-animations.ipynb](season-1/cadcad-hack-3-plotly-animations.ipynb) |
+| Ethereum ETL | How to access Ethereum Smart Contract data through BigQuery and Ethereum-ETL inside cadCAD simulations | [cadcad-hack-4-ethereum-etl.ipynb](season-1/cadcad-hack-4-ethereum-etl/cadcad-hack-4-ethereum-etl.ipynb) |
 
 ## Environment Setup
 
