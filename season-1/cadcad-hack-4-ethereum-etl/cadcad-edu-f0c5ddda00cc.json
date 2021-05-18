@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cadcad-edu",
+  "private_key_id": "f0c5ddda00cc11bd93c06a30df84f3e2fb3c05bc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDNGOn4XNtoULej\nVY5RqaAAt5jSRJi+jZD8rcENMnAzQP8pLHgsMOEW2G6ymUGoWFSvM0y1moxi9a1+\nLKgyMQ2YAUOzenm9Xe2xBFuJ0oHqCq3Jlckt+8KUewD9iaGc7sclJrzL+2zCxEyn\nU9Qo6JmkNbyjYPVaUHCQ3NLcY5FJvKyJvWNP2JE9JA45U5OSpAJ/XwOtAlnjeTMy\naTTrkAz8F0hRoUZRDKCXt5L3xO8+fSOWXz20msAvtBNdL3vp7FO9Htis6PtWzOCU\nWN6R+TwNG+bNSl/LhsYEMFnWXHQHEWL6tSWVvxXColHZVUd6H2uygy8AajJFF6A9\nRel9T+DrAgMBAAECggEAGuz0O9Frp+sU42y7gEK9yT+mi1BLIepxnY1CxMnu4KOz\nUUNPzDQR5jm9dVVZFnybiDFlbDVhIdVxae5Qmd+bvRgevGTOBQuG8CWLePFkcdvm\nCzV5ZxU1azXSIExIeyhT3QTpZfmDl/bvvfXrlVVNZQ6oTbtQaq4Ydm7Z1eonwZ9h\nxt/kVpjWwPbfCMnoZPNRs35FQl7/aNYJEcGPEi0B0MaT9ibmEOEzhNekoOK3jxHA\nZskFyIQzSib8cGpXlxlZNK+1y+5ySRocGl1BGgRcV78GxeAOFyZk+CbVUkCUaUOp\nXxWbG7jlTNj0I0MWXcP5MD/6AWl/rsDViCQH7V3q+QKBgQDsKc/BGU16TombWMJ2\n4HvnoXcb3fIO3d0akjIiWHtDa6rtKNvfMi7xQ2XQXwxbRKo4cAAS2MilFTSwgMBv\nt5ZpIFAaBOAZojkDc+KjHUhaMP1eooZsSBp7KbtQmBwzQmwrMrIUar4lCi8ESluJ\ntMBxiO0XE5s+0p38+peGfOceWQKBgQDeUxgfCYFODXRl7KdaVLomGYJhtmPI6/fe\n7cP9ELDsNFjf+uOtGV0H5DIjJJ/yvAKhV/MNtpqLs+HR+Je7OjKPNixNZJRnCEyO\nhuZaGr7ESnn4i+r+o+o/ilmUKbLhjfCuLP+TO8t58ctFic0yCjE2MJfs9+B36QUv\nr6JZYRC44wKBgQDQZfUXCST9kOCNXT39eQrd0/YveSNpSw8Zq3jiJgJf9FrY/P1J\ncBdMf5UQ008sGuO6+dqWxwYH5zafqn4mF3N7QTBuRW8cL7LwAQs1tVlrfV+YawMD\n+nyjwqew7wmzkiGx3QKYUbmJJftnZdZxJjfL+HB/tKWCQol3/ApKe13XwQKBgDD3\nGB7t1v670+EG6Czq8Dyn7aFbrEp6PhNpRnscC/tZ5CEgfriHF4g/aBN5Y4jwg5vJ\nZQymJQ+TxK6cE772qGAGTGeXOWAf4cyaRW2e6lkNFiP5nP4MV/E6pVQOgwlOW63g\n10E0MDJhYKWmHf1hZUlMFonoZhXCypOgGR+aUzaFAoGABsLv3/LMAnxJ6++0FZEr\n8aoFNyQ517mRAZYmmVtCUEtH0mYgoi1p7l+YMNNQJuuCoDTgWA4109mRihMlnkAL\nBf0ezuT4H0b4WKqquFgoiuy0Ep8gwDak8LySVY00LhqlcFcGMYCmLqS3BlS80ZCM\nzP0klZp4ktxI1ahltBACKy4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cadcad-hacks@cadcad-edu.iam.gserviceaccount.com",
+  "client_id": "116042811036631298285",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cadcad-hacks%40cadcad-edu.iam.gserviceaccount.com"
+}
