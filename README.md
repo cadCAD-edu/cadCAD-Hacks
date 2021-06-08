@@ -19,8 +19,8 @@ See https://www.cadcad.education/course/cadcad-hacks
 | Plotly Animations   | How to create beautifully interactive cadCAD models using Plotly animations | [cadcad-hack-3-plotly-animations.ipynb](season-1/cadcad-hack-3-plotly-animations.ipynb) |
 | Ethereum ETL | How to access Ethereum Smart Contract data through BigQuery and Ethereum-ETL inside cadCAD simulations | [cadcad-hack-4-ethereum-etl.ipynb](season-1/cadcad-hack-4-ethereum-etl/cadcad-hack-4-ethereum-etl.ipynb) |
 | Metadata | How to use metadata on cadCAD Partial State Update Blocks | [cadcad-hack-5-metadata.ipynb](season-1/cadcad-hack-5-metadata.ipynb) | 
-| Visualization Sliders | How to create beautifully interactive cadCAD models using visualization sliders | [cadcad-hack-6-visualization-sliders.ipynb](season-1/cadcad-hack-5-visualization-sliders.ipynb) | 
-| Live API Data | How to pull historical and live API data into cadCAD | [cadcad-hack-7-live-api-data.ipynb](season-1/cadcad-hack-7-live-api-data.ipynb) | 
+| Visualization Sliders | How to create beautifully interactive cadCAD models using visualization sliders | [cadcad-hack-6-visualization-sliders.ipynb](season-1/cadcad-hack-6-visualization-sliders.ipynb) |
+| Live API Data | How to pull historical and live API data into cadCAD | [cadcad-hack-7-live-api-data.ipynb](season-1/cadcad-hack-7-live-api-data.ipynb) |
 
 ## Environment Setup
 
