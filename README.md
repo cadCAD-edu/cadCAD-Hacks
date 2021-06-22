@@ -22,6 +22,7 @@ See https://www.cadcad.education/course/cadcad-hacks
 | Visualization Sliders | How to create beautifully interactive cadCAD models using visualization sliders | [cadcad-hack-6-visualization-sliders.ipynb](season-1/cadcad-hack-6-visualization-sliders.ipynb) |
 | Live API Data | How to pull historical and live API data into cadCAD | [cadcad-hack-7-live-api-data.ipynb](season-1/cadcad-hack-7-live-api-data.ipynb) |
 | Sensitivity Analysis | How to perform machine learning supported sensitivity analysis on cadCAD simulations | [cadcad-hack-8-sensitivity-analysis.ipynb](season-1/cadcad-hack-8-sensitivity-analysis.ipynb) |
+| Exporting Notebooks | How to generate PDFs and web pages from cadCAD notebooks |  |
 
 ## Environment Setup
 
