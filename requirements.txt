@@ -17,4 +17,5 @@ numba==0.53.1
 cadCAD-tools==0.0.1.0
 jupytext==1.11.1
 psutil==5.8.0
+pyppeteer==0.2.5
 
