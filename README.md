@@ -24,6 +24,7 @@ See https://www.cadcad.education/course/cadcad-hacks
 | Sensitivity Analysis | How to perform machine learning supported sensitivity analysis on cadCAD simulations | [cadcad-hack-8-sensitivity-analysis.ipynb](season-1/cadcad-hack-8-sensitivity-analysis.ipynb) |
 | Exporting Notebooks | How to generate PDFs and web pages from cadCAD notebooks | [cadcad-hack-9-exporting-notebooks/](season-1/cadcad-hack-9-exporting-notebooks/) |
 | Generating Stochastic Processes | How to generate stochastic processes as part of a cadCAD model | [cadcad-hack-10-generating-stochastic-processes.ipynb](season-1/cadcad-hack-10-generating-stochastic-processes.ipynb) |
+| NetworkX | How to use NetworkX for creating Agent-Based Models (ABM) in cadCAD | [cadcad-hack-11-networkx.ipynb](season-1/cadcad-hack-11-networkx.ipynb) |
 
 ## Environment Setup
 
