@@ -25,6 +25,7 @@ See https://www.cadcad.education/course/cadcad-hacks
 | Exporting Notebooks | How to generate PDFs and web pages from cadCAD notebooks | [cadcad-hack-9-exporting-notebooks/](season-1/cadcad-hack-9-exporting-notebooks/) |
 | Generating Stochastic Processes | How to generate stochastic processes as part of a cadCAD model | [cadcad-hack-10-generating-stochastic-processes.ipynb](season-1/cadcad-hack-10-generating-stochastic-processes.ipynb) |
 | NetworkX | How to use NetworkX for creating Agent-Based Models (ABM) in cadCAD | [cadcad-hack-11-networkx.ipynb](season-1/cadcad-hack-11-networkx.ipynb) |
+| History Erasing | How to avoid cadCAD memory overflows through history erasing | [cadcad-hack-12-history-erasing.ipynb](season-1/cadcad-hack-12-history-erasing.ipynb) |
 
 ## Environment Setup
 
