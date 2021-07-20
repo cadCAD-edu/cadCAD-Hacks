@@ -26,7 +26,7 @@ See https://www.cadcad.education/course/cadcad-hacks
 | Generating Stochastic Processes | How to generate stochastic processes as part of a cadCAD model | [cadcad-hack-10-generating-stochastic-processes.ipynb](season-1/cadcad-hack-10-generating-stochastic-processes.ipynb) |
 | NetworkX | How to use NetworkX for creating Agent-Based Models (ABM) in cadCAD | [cadcad-hack-11-networkx.ipynb](season-1/cadcad-hack-11-networkx.ipynb) |
 | History Erasing | How to avoid cadCAD memory overflows through history erasing | [cadcad-hack-12-history-erasing.ipynb](season-1/cadcad-hack-12-history-erasing.ipynb) |
-| Visualizing Large-scale Parameter Sweeps | How to plot simulations involving many parameter sweeps | [cadcad-hack-13-visualizing-large-scale-parameter-sweeps.ipynb](season-1/cadcad-hack-13-visualizing-large-scale-parameter-sweeps.ipynb) |
+| Visualizing Large-Scale Parameter Sweeps | How to plot simulations involving many parameter sweeps | [cadcad-hack-13-visualizing-large-scale-parameter-sweeps.ipynb](season-1/cadcad-hack-13-visualizing-large-scale-parameter-sweeps.ipynb) |
 
 ## Environment Setup
 
