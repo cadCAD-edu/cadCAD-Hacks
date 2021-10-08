@@ -28,6 +28,12 @@ See https://www.cadcad.education/course/cadcad-hacks
 | History Erasing | How to avoid cadCAD memory overflows through history erasing | [cadcad-hack-12-history-erasing.ipynb](season-1/cadcad-hack-12-history-erasing.ipynb) |
 | Visualizing Large-Scale Parameter Sweeps | How to plot simulations involving many parameter sweeps | [cadcad-hack-13-visualizing-large-scale-parameter-sweeps.ipynb](season-1/cadcad-hack-13-visualizing-large-scale-parameter-sweeps.ipynb) |
 
+### Season 2
+
+| Hack      | Description | Link |
+| ----------- | ----------- | --- |
+| Testing Framework | How to use a testing framework for cadCAD | [cadcad-hack-5-testing-framework/](season-2/cadcad-hack-5-testing-framework/) |
+
 ## Environment Setup
 
 For a comprehensive setup tutorial using [Anaconda](https://anaconda.com) see [cadCAD Complete Foundations Bootcamp](https://www.cadcad.education/course/bootcamp) - Section 2: Environment Setup.
