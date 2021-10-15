@@ -32,7 +32,8 @@ See https://www.cadcad.education/course/cadcad-hacks
 
 | Hack      | Description | Link |
 | ----------- | ----------- | --- |
-| Testing Framework | How to use a testing framework for cadCAD | [cadcad-hack-5-testing-framework/](season-2/cadcad-hack-5-testing-framework/) |
+| Testing Framework | How to use a testing framework for cadCAD | [cadcad-hack-15-testing-framework/](season-2/cadcad-hack-15-testing-framework/) |
+| Getting Started With radCAD | How to migrate a cadCAD model to radCAD | [cadcad-hack-16-radcad/](season-2/cadcad-hack-16-radcad/) |
 
 ## Environment Setup
 
