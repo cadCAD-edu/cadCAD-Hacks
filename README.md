@@ -35,6 +35,7 @@ See https://www.cadcad.education/course/cadcad-hacks
 | Testing Framework | How to use a testing framework for cadCAD | [cadcad-hack-15-testing-framework/](season-2/cadcad-hack-15-testing-framework/) |
 | Getting Started With radCAD | How to migrate a cadCAD model to radCAD | [cadcad-hack-16-radcad/](season-2/cadcad-hack-16-radcad/) |
 | Using Pandas Queries | How to use Pandas queries to navigate through cadCAD simulations | [cadcad-hack-17-pandas-queries.ipynb](season-2/cadcad-hack-17-pandas-queries.ipynb) |
+| Numba | How to use Numba to improve the performance of cadCAD simulations | [cadcad-hack-18-numba.ipynb](season-2/cadcad-hack-18-numba.ipynb) |
 
 ## Environment Setup
 
