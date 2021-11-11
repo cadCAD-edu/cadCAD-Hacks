@@ -37,6 +37,7 @@ See https://www.cadcad.education/course/cadcad-hacks
 | Using Pandas Queries | How to use Pandas queries to navigate through cadCAD simulations | [cadcad-hack-17-pandas-queries.ipynb](season-2/cadcad-hack-17-pandas-queries.ipynb) |
 | Numba | How to use Numba to improve the performance of cadCAD simulations | [cadcad-hack-18-numba.ipynb](season-2/cadcad-hack-18-numba.ipynb) |
 | Command Line Interfaces | How to create command line interfaces for a cadCAD model  | [cadcad-hack-19-cli/](season-2/cadcad-hack-19-cli/) |
+| NetworkX Visualizations | How to visualize complex networks using NetworkX  | [cadcad-hack-20-networkx-viz.ipynb](season-2/cadcad-hack-20-networkx-viz.ipynb) |
 
 ## Environment Setup
 
