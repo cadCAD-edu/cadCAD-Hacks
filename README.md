@@ -38,6 +38,7 @@ See https://www.cadcad.education/course/cadcad-hacks
 | Numba | How to use Numba to improve the performance of cadCAD simulations | [cadcad-hack-18-numba.ipynb](season-2/cadcad-hack-18-numba.ipynb) |
 | Command Line Interfaces | How to create command line interfaces for a cadCAD model  | [cadcad-hack-19-cli/](season-2/cadcad-hack-19-cli/) |
 | NetworkX Visualizations | How to visualize complex networks using NetworkX  | [cadcad-hack-20-networkx-viz.ipynb](season-2/cadcad-hack-20-networkx-viz.ipynb) |
+| Debugging Performance Issues | How debug cadCAD performance issues | [cadcad-hack-21-profiling-models.ipynb](season-2/cadcad-hack-21-profiling-models.ipynb) |
 
 ## Environment Setup
 
