@@ -39,6 +39,7 @@ See https://www.cadcad.education/course/cadcad-hacks
 | Command Line Interfaces | How to create command line interfaces for a cadCAD model  | [cadcad-hack-19-cli/](season-2/cadcad-hack-19-cli/) |
 | NetworkX Visualizations | How to visualize complex networks using NetworkX  | [cadcad-hack-20-networkx-viz.ipynb](season-2/cadcad-hack-20-networkx-viz.ipynb) |
 | Debugging Performance Issues | How debug cadCAD performance issues | [cadcad-hack-21-profiling-models.ipynb](season-2/cadcad-hack-21-profiling-models.ipynb) |
+| Logs for debugging | How to generate cadCAD logs for debugging | [cadcad-hack-22-logging.ipynb](season-2/cadcad-hack-22-logging.ipynb) |
 
 ## Environment Setup
 
