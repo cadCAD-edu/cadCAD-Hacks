@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    font-size: 32px;
+}
+body{
+    margin: 40px;
+}
+.slider{
+    width: 165px;
+    margin-left: -15px;
+}
+.input{
+    margin: 15px;
+}
+.button{
+    margin: 15px;
+    width:190px
+}
+.input-column{
+    float: left;
+    width: 20%;
+}
+.graph-column{
+    float: left;
+    width: 80%;
+}

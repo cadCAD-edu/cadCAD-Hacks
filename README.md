@@ -41,6 +41,7 @@ See https://www.cadcad.education/course/cadcad-hacks
 | Debugging Performance Issues | How debug cadCAD performance issues | [cadcad-hack-21-profiling-models.ipynb](season-2/cadcad-hack-21-profiling-models.ipynb) |
 | Logs for debugging | How to generate cadCAD logs for debugging |[cadcad-hack-22-logging.ipynb](season-2/cadcad-hack-22-logging.ipynb) |
 | Pickle | How to serialize and deserialize Python objects with Pickle |[cadcad-hack-23-pickle/](season-2/cadcad-hack-23-pickle/) |
+| cadCAD Front-ends | How to create cadCAD web front-ends with Dash |[cadcad-hack-24-cadcad-frontends/](season-2/cadcad-hack-24-cadcad-frontends/) |
 
 ## Environment Setup
 
